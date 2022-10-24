@@ -12,8 +12,8 @@ namespace Conditer
         /// <summary>
         /// Инициализирует новый экземпляр класса <see cref="Suplier"/>.
         /// </summary>
-        /// <param name="title">Заголовок. </param>
-        /// <param name="authors">Список авторов. </param>
+        /// <param name="company_name">Название компании. </param>
+        /// <param name="item">Поставляемый продукт. </param>
         public Suplier(
             string company_name,
             string item)

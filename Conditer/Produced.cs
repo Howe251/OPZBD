@@ -1,4 +1,4 @@
-﻿// <copyright file="Suplier.cs" company="Howe251">
+﻿// <copyright file="Produced.cs" company="Howe251">
 // Copyright (c) https://github.com/Howe251. All rights reserved.
 // </copyright>
 
@@ -7,8 +7,8 @@ namespace Conditer
     /// <summary>
     /// Инициализирует новый экземпляр класса <see cref="Produced"/>.
     /// </summary>
-    /// <param name="title">Заголовок. </param>
-    /// <param name="authors">Список авторов. </param>
+    /// <param name="date">Дата производства. </param>
+    /// <param name="count">Количество. </param>
     public class Produced
     {
         public Produced(

@@ -1,4 +1,4 @@
-﻿// <copyright file="Conditer.cs" company="Howe251">
+﻿// <copyright file="Store.cs" company="Howe251">
 // Copyright (c) https://github.com/Howe251. All rights reserved.
 // </copyright>
 
