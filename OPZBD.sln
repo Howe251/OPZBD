@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPZBD", "OPZBD\OPZBD.csproj", "{ED7CDD8F-EBFE-4E54-845D-6E4764EB829C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPZBD", "OPZBD\OPZBD.csproj", "{ED7CDD8F-EBFE-4E54-845D-6E4764EB829C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditer", "Conditer\Conditer.csproj", "{15670E18-3660-4F36-A6F6-167C38A21347}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ED7CDD8F-EBFE-4E54-845D-6E4764EB829C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED7CDD8F-EBFE-4E54-845D-6E4764EB829C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED7CDD8F-EBFE-4E54-845D-6E4764EB829C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15670E18-3660-4F36-A6F6-167C38A21347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15670E18-3660-4F36-A6F6-167C38A21347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15670E18-3660-4F36-A6F6-167C38A21347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15670E18-3660-4F36-A6F6-167C38A21347}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
